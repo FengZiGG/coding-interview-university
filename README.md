@@ -86,8 +86,13 @@ For a complete CS self-taught program, the resources for my study plan have been
 ### The Study Plan
 
 - [x] [What is it?](#what-is-it)
+<<<<<<< HEAD
 - [Why use it?](#why-use-it)
 - [How to use it](#how-to-use-it)
+=======
+- [x] [Why use it?](#why-use-it)
+- [x] [How to use it](#how-to-use-it)
+>>>>>>> 6b05151064104871fe0b46a3139081bd7d90f3bc
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
 - [A Note About Video Resources](#a-note-about-video-resources)
 - [Choose a Programming Language](#choose-a-programming-language)
