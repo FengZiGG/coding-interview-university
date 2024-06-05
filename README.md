@@ -85,7 +85,7 @@ For a complete CS self-taught program, the resources for my study plan have been
 
 ### The Study Plan
 
-- [What is it?](#what-is-it)
+- [x] [What is it?](#what-is-it)
 - [Why use it?](#why-use-it)
 - [How to use it](#how-to-use-it)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
@@ -258,7 +258,7 @@ Create a new branch so you can check items like this, just put an x in the brack
     ```bash
     git commit -am "Marked personal progress"
     git pull upstream main  # keep your fork up-to-date with changes from the original repo
-
+    
     git push # just pushes to your fork
     ```
 
@@ -1294,11 +1294,11 @@ You're never really done.
 
     *****************************************************************************************************
     *****************************************************************************************************
-
+    
     Everything below this point is optional. It is NOT needed for an entry-level interview.
     However, by studying these, you'll get greater exposure to more CS concepts and will be better prepared for
     any software engineering job. You'll be a much more well-rounded software engineer.
-
+    
     *****************************************************************************************************
     *****************************************************************************************************
 
